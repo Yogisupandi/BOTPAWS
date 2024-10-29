@@ -63,6 +63,14 @@ socks4://user:password@host:port
 socks5://user:password@host:port
 ```
 
+### 5. `wallets.txt` 💳 - Wallet address is an option. If you have one, fill it in. If you already link an address to 1 account and want to unlink it, just fill that line with blank.
+
+```txt
+0x...
+0x...
+0x...
+```
+
 💡 Usage:
 
 > You need to `cd` to the file after extract it
